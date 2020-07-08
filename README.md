@@ -15,23 +15,14 @@ Project that uses different pathfinding algorithms and compares they results aga
 First map: From [0][0] to [9][9]
 ```
 "..  XX   ."
-
 "*.  *X  *."
-
 " .  XX ..."
-
 " .* X *.* "
-
 " ...=...  "
-
 " .* X     "
-
 " .  XXX*  "
-
 " .  * =   "
-
 " .... XX  "
-
 "   *.  X* "
 ```
 
